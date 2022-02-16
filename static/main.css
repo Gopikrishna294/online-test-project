@@ -1,0 +1,45 @@
+
+.batch{
+    margin-top: 60px;
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+     }
+
+.bgform{
+    border: 1px solid;
+    font-family: bold;
+    font-size: 20px;
+    text-align: center;
+    border: 10px black;
+}
+
+.menubar{
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    margin-top: 50px;
+    background-image: url('backg.jpg');
+    background-size: cover;
+    border: 1px solid;
+    box-shadow: 5px 5px 3px;
+    width: 600px;
+    height: 500px;
+    color: black;
+}
+
+.nav-item{
+    margin-top: 40px;
+}
+.optn{
+  font-size: 18px;
+  margin-top: 30px;  
+
+}
+p{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.qes1{
+    font-size: 25px;
+}
